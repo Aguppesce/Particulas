@@ -5,5 +5,4 @@ Comienzo del proyecto Particulas</h1>
 <br><strong>
 Aquí esta el enlace a la wiki de JavaScript: https://github.com/Aguppesce/Particulas.wiki.git</br></strong>
 <br><strong>
-Ahora por último aquí esta la wiki del código HTML: [https://github.com/Aguppesce/Particulas.wiki.git
-](https://github.com/Aguppesce/Particulas/wiki/HTML)
+Ahora por último aquí esta la wiki del código HTML: https://github.com/Aguppesce/Particulas/wiki/HTML
